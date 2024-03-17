@@ -40,8 +40,8 @@ BLUE = '\033[94m'
 LAVENDER = '\033[38;2;230;200;250m'
 RESET = '\033[0m'
 
-
-#This is a change
-
 # Run game!
 runGame()
+
+
+# Change
